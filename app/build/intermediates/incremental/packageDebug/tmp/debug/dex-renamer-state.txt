@@ -1,0 +1,4 @@
+#Fri Apr 03 09:38:08 WIB 2020
+base.0=/Users/mac/OneDrive/Kampus/PAPB/15113-MentariER-PAPB-2-Location-Komsi-B/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

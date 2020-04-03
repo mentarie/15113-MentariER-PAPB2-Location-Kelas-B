@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Apr 03 09:38:12 WIB 2020
+0.baseType=DIRECTORY
+0.base=/Users/mac/OneDrive/Kampus/PAPB/15113-MentariER-PAPB-2-Location-Komsi-B/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1
